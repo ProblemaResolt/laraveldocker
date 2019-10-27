@@ -1,0 +1,11 @@
+/logs/*
+mysql/
+logs/mysql-error.log
+logs/access.log
+logs/mysql-error.log
+logs/mysql-query.log
+logs/mysql-slow.log
+logs/access.log
+logs/mysql-error.log
+logs/mysql-query.log
+logs/mysql-slow.log
